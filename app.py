@@ -14,7 +14,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 app = FastAPI(
     title="TripMate AI",
-    description="LangGraph Multi-Agent Travel Planner with FastAPI Frontend",
+    description="LangGraph Multi-Agent Travel Planner with FastAPI Backend",
     version="1.0.0"
 )
 
